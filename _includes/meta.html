@@ -1,0 +1,19 @@
+{% assign author = site.authors[page.author] %}
+<meta name="author" content="{% if author.twitter %}{{ author.display_name }}{% else %}@mccst{% endif %}">
+<meta name="description" content="{% if page.description%}{{page.description}}{% else %}Ruggedized solutions for defense, aerospace, and homeland security.{% endif %}">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="fb:page_id" content="">
+<meta name="fb:admins" content="">
+<link rel="canonical" href="{{site.url}}{{page.url}}" />
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="mccst">
+<meta name="twitter:image:src" content="{% if page.img %}{{page.img}}{% else %}{{site.url}}/_assets/img/logo.png{% endif %}">
+<meta name="twitter:creator" content="{% if author.twitter %}{{author.twitter}}{% else %}@mccst{% endif %}">
+<meta name="twitter:url" content="{{site.url}}{{page.url}}">
+<meta name="twitter:description" content="{% if page.description%}{{page.description}}{% else %}Ruggedized solutions for defense, aerospace, and homeland security.{% endif %}">
+<meta property="og:site_name" content="McCormick Stevenson">
+<meta property="og:url" content="{{site.url}}{{page.url}}">
+<meta property="og:title" content="{{page.title}}">
+<meta property="og:type" content="article">
+<meta property="og:description" content="{% if page.description%}{{page.description}}{% else %}Ruggedized solutions for defense, aerospace, and homeland security.{% endif %}">
+<meta property="og:image" content="{% if page.img %}{{page.img}}{% else %}{{site.url}}/_assets/img/logo.png{% endif %}">

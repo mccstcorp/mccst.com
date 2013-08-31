@@ -1,13 +1,3 @@
-/*
-Theme Name: McCormick Stevenson Corporation
-Theme URI: http://colemanmccormick.com/clients/mccst/
-Description: Wordpress theme customized for MCCST.
-Author: Coleman McCormick
-Author URI: http://colemanmccormick.com/
-version: 1.0
-Tags: two-column, widget-ready, custom
-*/
-
 /**** CSSRESET ****/
 body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td{margin:0; padding:0}
 table{border-collapse:collapse; border-spacing:0}
@@ -26,7 +16,7 @@ abbr, acronym{border:0}
 
 body {
   background: #000;
-  font-family: arial, tahoma, sans-serif;
+  font-family: 'Oxygen', sans-serif;
   font-size: 11pt;
 }
 
