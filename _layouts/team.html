@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<div class="post">
+  <span class="breadcrumb"><a href="/team">Team</a><span class="grey"> &raquo; </span>{{ page.title }}</span>
+  <h2 class="employee-name">{{ page.title}}</h2>
+  <h3 class="employee-title">{{ page.job_title }}</h3>
+
+  <div class="employee-detail">
+    <div class="employee-photo">
+      <img src="/assets/img/people/{{ page.nickname }}-large.png" />
+    </div>
+    <div class="employee-contact">
+      <ul>
+        <li class="email">
+          <a href="">Email</a>
+        </li>
+        <li class="linkedin">
+          <a href="" target="_blank">Linkedin</a>
+        </li>
+        <li class="twitter">
+          <a href="" target="_blank">Twitter</a>
+        </li>
+        <li class="skype">
+          <a href="">Skype</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="employee-content">
+    <div class="entry">
+      {{ content }}
+    </div>
+  </div>
+</div>

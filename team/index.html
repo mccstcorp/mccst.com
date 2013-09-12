@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<div id="team-content">
+    <div id="team-photos">
+        {% for page in site.pages %}
+            {% if page.categories contains 'team' %}
+                <a href="{{ page.url }}"><img src="/assets/img/people/{{page.nickname}}-small.png" /></a>
+                <br /><a href="{{ page.url }}">
+                  {{ page.title }}</a><br />
+                  <em>{{ page.job_title }}</em>
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>

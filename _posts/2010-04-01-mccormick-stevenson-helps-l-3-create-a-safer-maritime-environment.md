@@ -1,0 +1,9 @@
+---
+title: McCormick Stevenson Helps L-3 Create a Safer Maritime Environment
+author: Diana Light
+layout: post
+permalink: /2010/04/mccormick-stevenson-helps-l-3-create-a-safer-maritime-environment/
+categories:
+  - Recent News
+---
+<img class="aligncenter size-full wp-image-465" title="l3" src="http://mccst.com/wp-content/uploads/2011/04/l3.jpg" alt="" width="148" height="70" />McCormick Stevenson recently assisted L-3 Aviation Recorders Division with the preliminary development of their next generation of <a href="http://r20.rs6.net/tn.jsp?llr=y5ywn7cab&et=1103452012772&s=0&e=001nYSySWXA-AIDBTkem_oFOB29Vebm4cBLxcj9ffZSdtbrKB29O4T2YR-JXXiKdEU5-fYm18SRSd2WNSjBlFcNsnccR7dPZcYlxBZXTGe-qviUlRAL3WNpylqRsmDuZ2gbSbxEX3rJo1I=" target="_blank">Automatic Identification System</a> for both shipboard and airborne applications.  This rugged, harsh environment piece of electronics equipment is a short range tracking system used for locating and identifying nearby similarly equipped vessels primarily for the purpose of collision avoidance.  However, vessel traffic services in busy ports may also use the broadcast information as well as search and rescue vessels and aircraft.  McCormick Stevenson provided the mechanical engineering and design basis for the new product and fabricated marketing quality prototypes for first viewing at the RTCM 2010 Conference (Radio Technical Commission for Maritime Services) held in San Diego recently.  Tom Schmutz, VP of Engineering for L-3 said this regarding the preliminary prototypes, **“The look of the unit is really outstanding .  The packaging sets the stage for the unique functionality and performance that this product brings to market.”**

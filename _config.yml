@@ -3,6 +3,7 @@ permalink: /:categories/:title/
 port: 4000
 pygments: true
 url: http://mccst.com
+markdown: kramdown
 title : McCormick Stevenson Corporation
 author: McCormick Stevenson Corporation
 
